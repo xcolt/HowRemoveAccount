@@ -1,0 +1,1 @@
+In Profile page click "Remove account", after confirmation all data related to your account will be removed
